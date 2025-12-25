@@ -1,3 +1,7 @@
+
+![WhatsApp Image 2025-12-24 at 21 14 40_433f3118](https://github.com/user-attachments/assets/db2dc09d-c006-4f1b-9bf4-c41ae72c2c30)
+
+
 # TPCH Query 5 C++ Multithreading Project
 
 ## Overview
